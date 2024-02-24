@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+joblib
+numpy
+scikit-learn==1.2.2
+tensorflow
+opencv-python
+Pillow
